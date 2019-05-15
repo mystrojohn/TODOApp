@@ -55,6 +55,7 @@ body{
     max-height:350px;
     background-color: #FFF;
     overflow: auto;
+    margin: 0 auto;
 }
 .content::-webkit-scrollbar { 
     display: none; 
